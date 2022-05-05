@@ -14,6 +14,14 @@
 
 
 
+## Compétences
+
+- Intégrer du contenu conformément à une maquette
+- Implémenter une interface responsive
+
+
+
+
 ## Lancement du projet
 
 Ouvrir un document html, de faire un clic droit sur le code html, enfin de cliquer sur "Ouvrir avec Live Server » ou la fonction rapide (Cmd + L Cmd + O).
